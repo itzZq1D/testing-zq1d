@@ -1,0 +1,27 @@
+{
+  "name": "PROJECT",
+  "description": "not yet :D .",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "dev": ""
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "12.5.3",
+    "fs": "^0.0.2",
+    "node-fetch": "^2.6.1",
+    "ms": "^2.1.2",
+    "mongoose": "5.13.7",
+    "moment": "^2.29.1",
+  },
+ // glitc/repl.it "engines": {
+ // glitc/repl.it   "node": "12.x"
+ // glitc/repl.it },
+  "license": "MIT",
+  "keywords": [
+    "word1",
+    "word2",
+    "word3"
+  ]
+}
